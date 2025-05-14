@@ -14,8 +14,9 @@
    | () |                 | () |   | () |                  | () |    | () |   
     \__/                   \__/     \__/                    \__/      \__/    
 ```
+
 Este projeto é uma aplicação em linguagem C desenvolvida em Squad para gerenciar a frota de uma locadora de veículos. O sistema permite o cadastro, listagem e armazenamento em arquivo dos veículos da frota, utilizando alocação dinâmica de memória e estrutura de dados com
----
+
 ## Contribuidores
 
     Lucas Werpp Franco - RM: 556044
